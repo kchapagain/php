@@ -1,2 +1,3 @@
 # phpDirReader
-read directory using php and store content in an array. This specific code reads .png file but can be change accordingly.
+This code reads .png files form specified directory and save in an array called images. User can change and modify this code accordingly if needed.
+
