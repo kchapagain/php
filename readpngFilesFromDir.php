@@ -2,7 +2,7 @@
 /*
         File information
         File Name: function.php
-        Description: Contains php functions for the puropse of Lab work 2
+        Description: Reads png file from directory
         Created by : Kamal Chapagain
         Created on: 07/03/2015
 */
